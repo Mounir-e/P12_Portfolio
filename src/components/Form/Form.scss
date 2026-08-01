@@ -1,0 +1,79 @@
+.required-fields {
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+.contact-form label span {
+  color: var(--gold);
+}
+
+.contact-form input:invalid:not(:placeholder-shown),
+.contact-form textarea:invalid:not(:placeholder-shown) {
+  border-color: var(--rose);
+}
+
+.contact-form button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+  transform: none;
+}
+
+.form-feedback {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 4px;
+}
+
+.form-feedback-error {
+  border: 1px solid var(--rose);
+  background: rgba(174, 90, 90, 0.14);
+  color: var(--text);
+}
+
+.confirmation-modal {
+  width: min(480px, calc(100% - 32px));
+  padding: 36px;
+  border: 1px solid rgba(166, 142, 69, 0.6);
+  border-radius: 12px;
+  background: var(--bg);
+  color: var(--text);
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+.confirmation-modal::backdrop {
+  background: rgba(0, 0, 0, 0.72);
+  backdrop-filter: blur(4px);
+}
+
+.confirmation-modal h2 {
+  margin-top: 18px;
+  font-size: clamp(2.3rem, 7vw, 3.5rem);
+}
+
+.confirmation-modal p {
+  margin: 18px auto 24px;
+}
+
+.confirmation-modal button {
+  min-height: 46px;
+  padding: 0 24px;
+  border: 0;
+  background: var(--gold);
+  color: var(--teal);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.confirmation-icon {
+  display: grid;
+  width: 58px;
+  height: 58px;
+  margin: 0 auto;
+  border: 2px solid var(--gold);
+  border-radius: 50%;
+  place-items: center;
+  color: var(--gold);
+  font-size: 2rem;
+  font-weight: 700;
+}
