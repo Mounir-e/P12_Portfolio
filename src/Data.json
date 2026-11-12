@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Créez une page web dynamique avec JavaScript",
-      "image": "images/p6.webp",
+      "image": "images/P6.webp",
       "description": "Le projet consiste à développer une page web dynamique pour le portfolio d’une architecte d’intérieur. L’objectif est de partir d’un site statique existant pour afficher les travaux depuis une API, ajouter des filtres par catégorie, créer une page de connexion administrateur et mettre en place une modale de gestion des projets. Ce projet permet de découvrir plus en profondeur JavaScript, notamment la manipulation du DOM, la gestion des interactions utilisateur, l’utilisation de fetch pour communiquer avec une API, ainsi que la création de fonctionnalités dynamiques sans recharger la page.",
       "stack": [
         "HTML",
@@ -32,7 +32,7 @@
     {
       "id": 3,
       "title": "Planifiez le développement du site de votre client",
-      "image": "images/P11.webp",
+      "image": "images/p11.webp",
       "description": "Le projet Menu Maker by Qwenta consiste à planifier le développement d’un site permettant aux restaurateurs de créer et mettre en page leurs menus facilement. Contrairement à un projet de code, l’objectif principal est ici de préparer le travail des développeurs en analysant les besoins, les maquettes et les user stories. Ce projet permet de découvrir la gestion de projet web, la rédaction de spécifications techniques, la mise en place d’une veille technologique avec Pearltrees, ainsi que l’organisation des tâches dans un outil comme Trello avec un tableau Kanban. Il met aussi en avant le rôle du développeur dans la préparation d’une solution technique claire, structurée et présentable au client.",
       "stack": [
         "Pearltrees",
@@ -74,7 +74,7 @@
     {
       "id": 6,
       "title": "Trello",
-      "image": "images/trello.webp"
+      "image": "images/Trello.webp"
     },
     {
       "id": 7,
