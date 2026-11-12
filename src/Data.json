@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Créez une page web dynamique avec JavaScript",
-      "image": "/src/assets/p6.webp",
+      "image": "images/p6.webp",
       "description": "Le projet consiste à développer une page web dynamique pour le portfolio d’une architecte d’intérieur. L’objectif est de partir d’un site statique existant pour afficher les travaux depuis une API, ajouter des filtres par catégorie, créer une page de connexion administrateur et mettre en place une modale de gestion des projets. Ce projet permet de découvrir plus en profondeur JavaScript, notamment la manipulation du DOM, la gestion des interactions utilisateur, l’utilisation de fetch pour communiquer avec une API, ainsi que la création de fonctionnalités dynamiques sans recharger la page.",
       "stack": [
         "HTML",
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "title": "Créez une application web de location immobilière avec React",
-      "image":"/src/assets/P7.webp",
+      "image":"images/P7.webp",
       "description": "Le projet Kasa consiste à développer une application web de location de logements avec React. Il permet de découvrir la création d’une interface organisée en composants, la navigation entre les pages avec React Router, ainsi que l’utilisation de Vite pour lancer et structurer rapidement le projet. Ce projet m’a aussi permis de comprendre le JSX, qui permet d’écrire l’interface avec une syntaxe proche du HTML tout en utilisant la logique de JavaScript. Contrairement à un site classique en HTML/CSS/JS, React permet de découper l’interface en éléments réutilisables et de mettre à jour l’affichage plus facilement selon les données ou les interactions de l’utilisateur.","stack": [
         "React",
         "Vite",
@@ -32,7 +32,7 @@
     {
       "id": 3,
       "title": "Planifiez le développement du site de votre client",
-      "image": "/src/assets/P11.webp",
+      "image": "images/P11.webp",
       "description": "Le projet Menu Maker by Qwenta consiste à planifier le développement d’un site permettant aux restaurateurs de créer et mettre en page leurs menus facilement. Contrairement à un projet de code, l’objectif principal est ici de préparer le travail des développeurs en analysant les besoins, les maquettes et les user stories. Ce projet permet de découvrir la gestion de projet web, la rédaction de spécifications techniques, la mise en place d’une veille technologique avec Pearltrees, ainsi que l’organisation des tâches dans un outil comme Trello avec un tableau Kanban. Il met aussi en avant le rôle du développeur dans la préparation d’une solution technique claire, structurée et présentable au client.",
       "stack": [
         "Pearltrees",
@@ -49,37 +49,37 @@
     {
       "id": 1,
       "title": "HTML5",
-      "image": "src/assets/html5.webp"
+      "image": "images/html5.webp"
     },
     {
       "id": 2,
       "title": "CSS3",
-      "image": "src/assets/css3.webp"
+      "image": "images/css3.webp"
     },
     {
       "id": 3,
       "title": "JavaScript",
-      "image": "src/assets/javascript.webp"
+      "image": "images/javascript.webp"
     },
     {
       "id": 4,
       "title": "React.js",
-      "image": "src/assets/React.webp"
+      "image": "images/React.webp"
     },
     {
       "id": 5,
       "title": "Figma",
-      "image": "src/assets/figma.webp"
+      "image": "images/figma.webp"
     },
     {
       "id": 6,
       "title": "Trello",
-      "image": "src/assets/trello.webp"
+      "image": "images/trello.webp"
     },
     {
       "id": 7,
       "title": "Pearltrees",
-      "image": "src/assets/Pearltrees.webp"
+      "image": "images/Pearltrees.webp"
     }
   ]
 }
