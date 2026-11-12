@@ -99,7 +99,7 @@ function App() {
 
       </main>
       <a href="#top" className="scroll-top-btn" title="Retour en haut">
-        <img src="/public/fleche.webp" alt="Flèche vers le haut" />
+        <img src="fleche.webp" alt="Flèche vers le haut" />
       </a>
       <Footer />
 
