@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import "./Form.scss";
 
-const formEndpoint = import.meta.env.VITE_FORMSPREE_ENDPOINT;
+const formEndpoint = "https://formspree.io/f/xdkgvjjb";
 
 function Form() {
   const [status, setStatus] = useState("idle");
